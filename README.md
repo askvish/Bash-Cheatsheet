@@ -1,2 +1,7 @@
-# bash-cheat-sheet
-Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, it has been used as the default login shell for most Linux distributions. Bash was one of the first programs Linus Torvalds ported to Linux, alongside GCC. A version is also available for Windows 10 via the Windows Subsystem for Linux. It is also the default user shell in Solaris 11. Bash was also the default shell in all versions of Apple macOS prior to the 2019 release of macOS Catalina, which changed the default shell to zsh, although Bash remains available as an alternative shell.
+# Bash-Cheat-Sheet
+Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
+First released in 1989, it has been used as the default login shell for most Linux distributions.
+Bash is the GNU Project's shell—the Bourne Again SHell.
+This is an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and the C shell (csh).
+It is intended to conform to the IEEE POSIX P1003.2/ISO 9945.2 Shell and Tools standard.
+It offers functional improvements over sh for both programming and interactive use. In addition, most sh scripts can be run by Bash without modification.
